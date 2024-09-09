@@ -4,7 +4,7 @@
 		"slot": 2,
 		"description": "Nightmare King Grimm is a more difficult boss than Jevil ever will be",
 		"platform": "V5",
-		"creationDate": "Mon, 20 May 2024 17:26:23 GMT",
+		"creationDate": "Fri, 09 Aug 2024 14:22:34 GMT",
 		"language": "cpp",
 		"sdkVersion": "V5_20240223_11_00_00",
 		"cpp": {
@@ -12,7 +12,7 @@
 		}
 	},
 	"extension": {
-		"version": "0.5.0",
+		"version": "0.6.0",
 		"json": 1
 	}
 }
